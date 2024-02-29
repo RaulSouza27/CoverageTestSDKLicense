@@ -5,4 +5,4 @@
 ### EletraSDKLicense
 Nas implementações há 1940 linhas nas quais 1223 linhas estão cobertas por testes, isso corresponde a 63% de linhas cobertas com testes, conforme o grafico abaixo:
 
-![Gráfico das cobeturas de teste do EletraSDKLicense](https://github.com/RaulSouza27/CoverageTestsEletraSDK/blob/main/Images/EletraSDK.png)
+![Gráfico das cobeturas de teste do EletraSDKLicense](https://github.com/RaulSouza27/CoverageTestSDKLicense/blob/main/Images/EletraSDKLicense.png)
